@@ -1,0 +1,3 @@
+#!/bin/bash
+
+singularity exec -e docker://brainlife/fsl:6.0.4-patched2 ./run.sh
